@@ -17,7 +17,7 @@ REPORT ZBCMKZ17.
 *                                                                      *
 * Programmer:    Bence Toth                                            *
 * Date:          1997 April                                            *
-*                                                                      *
+* Updated to check sonar trigger                                       *
 *----------------------------------------------------------------------*
 INCLUDE: <ICON>.
 TABLES: ZBCMKZ1, TRDIR, TSTCT, TSTC.
