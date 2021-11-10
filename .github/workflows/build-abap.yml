@@ -8,11 +8,11 @@ on:
   push:
     branches: 
       - main 
-      - Feature*
+      - branch-*
   pull_request:
     branches: 
      - main 
-     - Feature*
+     - branch-*
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
